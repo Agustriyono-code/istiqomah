@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">apps login</string>
+    <string name="image">image</string>
+    <string name="loginsystem">LOGIN SYSTEM</string>
+    <string name="login_system">Login System</string>
+    <string name="username">user name</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="txtGOVERMANT">Paket pembayaran BUMN</string>
+    <string name="txtpembayaran">pembayaran</string>
+    <string name="txtdiscound">discound</string>
+</resources>
